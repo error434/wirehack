@@ -2013,7 +2013,7 @@ EOF""") % wlanInterface
         # ~ iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
         # ~ iptables -A FORWARD -i wlan0 -o eth0 -j ACCEPT
         # ~ echo '1' > /proc/sys/net/ipv4/ip_forward""")
-        # ~ print "finished the setup of nat"
+        # ~ print ("finished the setup of nat")
 
         try:
             get_login_page()
