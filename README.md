@@ -8,7 +8,6 @@
 # I'm not responsible for any misuse. Please read instructions thoroughly before usage.  
 # Any misuse will/can lead to a crime for which you can face legal charges
 
-* Usage: `python InfernalWireless.py` (from the same folder where your code exists)
 
 # For any comments and suggestions
 # Dm me on Discord -(error_434#6498)
