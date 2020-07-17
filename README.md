@@ -9,7 +9,7 @@
 
 
 * For any comments and suggestions
-*Dm me on Discord -(error_434#6498)
+* Dm me on Discord -(error_434#6498)
 
 
 
