@@ -4,9 +4,9 @@
 ## THIS IS MY FIRST PUBLIC REPO SO PLEASE DO SHARE FEEDBACK
 
 ##                                     DISCLAIMER
-# This tool is created to aid the penetration testers in assessing wireless security.
-# I'm not responsible for any misuse. Please read instructions thoroughly before usage.  
-# Any misuse will/can lead to a crime for which you can face legal charges
+> # This tool is created to aid the penetration testers in assessing wireless security.
+> # I'm not responsible for any misuse. Please read instructions thoroughly before usage.  
+> # Any misuse will/can lead to a crime for which you can face legal charges
 
 
 # For any comments and suggestions
