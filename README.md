@@ -1,8 +1,8 @@
 [![HitCount](http://hits.dwyl.com/error434/wirehack.svg)](http://hits.dwyl.com/error434/wirehack) 
 
-THE PREVIOUS VERSION (v2.10 & 2.20) WERE RELEASED ON GITHUB AS PRIVATE REPOS 
- YET I HAVE UPLOADED ALL THE NEW FEATURES AND BUG FIXES
- THIS IS MY FIRST PUBLIC REPO SO PLEASE DO SHARE FEEDBACK
+ * THE PREVIOUS VERSION (v2.10 & 2.20) WERE RELEASED ON GITHUB AS PRIVATE REPOS 
+ * YET I HAVE UPLOADED ALL THE NEW FEATURES AND BUG FIXES
+ * THIS IS MY FIRST PUBLIC REPO SO PLEASE DO SHARE FEEDBACK
 
 ##                                     DISCLAIMER
 > ## This tool is created to aid the penetration testers in assessing wireless security.
