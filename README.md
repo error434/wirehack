@@ -1,4 +1,5 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/error434/wirehack)
+[<img src=https://img.shields.io/github/license/error434/wirehack>](https://github.com/error434/wirehack/blob/master/README.md)
 
 
  * THE PREVIOUS VERSION (v2.10 & 2.20) WERE RELEASED ON GITHUB AS PRIVATE REPOS 
