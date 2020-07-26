@@ -1,4 +1,4 @@
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/error434/wirehack)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/error434/wirehack/issues)
 [<img src=https://img.shields.io/github/license/error434/wirehack>](https://github.com/error434/wirehack/blob/master/README.md)
 
 
