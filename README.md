@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/error434/wirehack.svg)](http://hits.dwyl.com/error434/wirehack) 
+[![HitCount](http://hits.dwyl.com/appu1232/guyamoe.svg)](http://hits.dwyl.com/appu1232/guyamoe)
 
  * THE PREVIOUS VERSION (v2.10 & 2.20) WERE RELEASED ON GITHUB AS PRIVATE REPOS 
  * YET I HAVE UPLOADED ALL THE NEW FEATURES AND BUG FIXES
