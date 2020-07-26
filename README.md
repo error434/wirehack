@@ -1,5 +1,5 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/error434/wirehack)
-![Build Status](https://travis-ci.org/error434/wirehack}.png?branch=master)](https://travis-ci.org/error434/wirehack)
+
 
  * THE PREVIOUS VERSION (v2.10 & 2.20) WERE RELEASED ON GITHUB AS PRIVATE REPOS 
  * YET I HAVE UPLOADED ALL THE NEW FEATURES AND BUG FIXES
