@@ -13,7 +13,7 @@
 > ## Any misuse will/can lead to a crime for which you can face legal charges
 
 
-* For any comments and suggestions dm me on Discord -(error_434#6498)
+* For any comments and suggestions DM me on Discord - (error_434#6498)
 
 
 
