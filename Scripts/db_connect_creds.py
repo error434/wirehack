@@ -2,7 +2,7 @@
 
 # by error434
 # copyrighted © 2020
-#This is script is to be used for ethical purposes only
+# This is script is to be used for ethical purposes only
 
 """Functions related to MySQL credentials."""
 import logging

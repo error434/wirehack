@@ -19,7 +19,7 @@
 
 
 
-## Infernal-Wireless v3
+## Wirehack v3
     Release 3
 
 - Improved and Compatibility on Kali Linux 2018
@@ -36,13 +36,13 @@
 - Created dedicated Folder for Logs and management 
 
 
-## Infernal-Wireless v2.20
+## Wirehack v2.20
     Release 2.20
 
 - Menu to retrieve logs are added 
 
 
-## Infernal-Wireless v2.10
+## Wirehack v2.10
     Release 2.10
 
 - Added BeeF XSS framework Integration 

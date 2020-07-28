@@ -1,6 +1,6 @@
 # by error434
 # copyrighted © 2020
-#This is script is to be used for ethical purposes only
+# This is script is to be used for ethical purposes only
 
 import httplib
 import urllib2
@@ -471,7 +471,7 @@ class Example(wx.Frame):
         import wizard_scanner
 
     def checkUpdate(self, e):
-        request = urllib2.urlopen("https://github.com/entropy1337/infernal-twin/blob/master/README.md")
+        request = urllib2.urlopen("https://github.com/error434/wirehack/blob/master/README.md")
         check = request.readline().strip('\n')
         if check != 'Infernal-Wireless v2':
             wx.MessageBox('New Version Available', 'Information', wx.ICON_INFORMATION)
