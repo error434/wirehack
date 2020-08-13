@@ -1,6 +1,6 @@
-# by error434
-# copyrighted © 2020
-# This is script is to be used for ethical purposes only
+#  By error434
+#  Copyrighted © 2020
+#  This is script is to be used for ethical purposes only
 
 import httplib
 import urllib2
