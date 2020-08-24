@@ -76,7 +76,7 @@
 
 ## FAQ:
 
-## I have a problem with connecting to the Database (no longer expected to occur since ive fixed in the next relase])
+## I have a problem with connecting to the Database (no longer expected to occur since I've fixed in the next release)
 
 # Solution:
 There seem to be few issues with Database connectivity. The solution is to create a new user on the database and use that user for launching the tool. Follow the following steps.
