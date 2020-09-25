@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fc685554ba53439395677ef46a1ed31b)](https://app.codacy.com/manual/dhruvpg04/wirehack?utm_source=github.com&utm_medium=referral&utm_content=error434/wirehack&utm_campaign=Badge_Grade_Settings)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/error434/wirehack/issues/new)
 [<img src=https://img.shields.io/github/license/error434/wirehack>](https://github.com/error434/wirehack/blob/master/README.md)
 <img src=https://img.shields.io/github/languages/top/error434/wirehack>
